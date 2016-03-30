@@ -1,0 +1,27 @@
+{
+  "name": "falcor-pathmap-syntax",
+  "version": "1.0.0",
+  "description": "ES6 Template String and Builder function for Creating Falcor Path Maps (Experimental)",
+  "main": "pmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhusain/falcor-pathmap-syntax.git"
+  },
+  "keywords": [
+    "falcor",
+    "path",
+    "map",
+    "es6",
+    "template",
+    "string"
+  ],
+  "author": "Jafar Husain <jhusain@gmail.com> (https://github.com/jhusain/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jhusain/falcor-pathmap-syntax/issues"
+  },
+  "homepage": "https://github.com/jhusain/falcor-pathmap-syntax#readme"
+}
